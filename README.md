@@ -1,1 +1,5 @@
-# react-hangman
+#### Hangman game with React
+
+----
+
+Live: 
