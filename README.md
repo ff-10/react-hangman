@@ -2,4 +2,4 @@
 
 ----
 
-Live: 
+Live: https://react-hangman-wheat.vercel.app/
